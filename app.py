@@ -12,7 +12,7 @@ API_URL = "https://free-fire-bot1.vercel.app/"
 ENCODED_KEY = "QW51cmFn="
 API_KEY = base64.b64decode(ENCODED_KEY).decode()
 
-BOT_TOKEN = "8738936359:AAEW_pEAdBUk5OQTg3Jgj1fWTPzhWf29-8w "
+BOT_TOKEN = "8738936359:AAEW_pEAdBUk5OQTg3Jgj1fWTPzhWf29-8w"
 ADMIN_IDS = [7733903846]          # ← Replace with your actual admin ID(s)
 
 # ============ DATA FILES ============
