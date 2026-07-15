@@ -1,4 +1,15 @@
 [
+    {
+        "uid": "4168582484",
+        "password": "09D2A838FBF8870D2944E9A06209A58F8F6C5763EB1CF77C456D4E798917E302",
+        "error_reason": "API Error (400): No valid platform found"
+    },
+    {
+        "uid": "4301282558",
+        "password": "FAFD49D6E650341E18960FA022E0D95331477CD8CDB392CBD13B6FB7B38B98BF",
+        "error_reason": "API Error (400): No valid platform found"
+    }
+[
   {
     "token": "eyJhbGciOiJIUzI1NiIsInN2ciI6IjEiLCJ0eXAiOiJKV1QifQ.eyJhY2NvdW50X2lkIjoxMzc1Njc4NzMwMiwibmlja25hbWUiOiJmZ2RjVEZZV1ZVST0iLCJub3RpX3JlZ2lvbiI6IkJEIiwibG9ja19yZWdpb24iOiJCRCIsImV4dGVybmFsX2lkIjoiYWQzMTI1NDU3MmUwZDNhODEzNTFmNTIxNWFhMWIwODIiLCJleHRlcm5hbF90eXBlIjo0LCJwbGF0X2lkIjoxLCJjbGllbnRfdmVyc2lvbiI6IjEuMTA4LjMiLCJlbXVsYXRvcl9zY29yZSI6MTAwLCJpc19lbXVsYXRvciI6dHJ1ZSwiY291bnRyeV9jb2RlIjoiREUiLCJleHRlcm5hbF91aWQiOjQyNjYwNjExNjIsInJlZ19hdmF0YXIiOjEwMjAwMDAwNywic291cmNlIjowLCJsb2NrX3JlZ2lvbl90aW1lIjoxNzYyMDc4Nzk0LCJjbGllbnRfdHlwZSI6Miwic2lnbmF0dXJlX21kNSI6IiIsInVzaW5nX3ZlcnNpb24iOjAsInJlbGVhc2VfY2hhbm5lbCI6IiIsInJlbGVhc2VfdmVyc2lvbiI6Ik9CNTMiLCJleHAiOjE3Nzg4NjA1ODh9.fdun4H-jDDswDQiOlbY9zFvep6FREt7kFGG46TPD1uk"
   },
